@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TOKYO DOME CYPHER",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-06T08:21:31.684635Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO DOME CYPHER",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_DOME_CYPHER_BAD_HOP.txt"
+    }
+  ]
+}
